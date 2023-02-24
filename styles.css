@@ -1,0 +1,52 @@
+#banner{
+    background-color: lightskyblue;
+    width: 100%;
+    height: 200px;
+    border-bottom: solid 2px gray;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.contenedor{
+    width: 100%;
+}
+#formulario{
+    width: 100%;
+    background-color: deepskyblue;
+    padding-bottom: 50px;
+
+}
+
+#footer {
+
+    height: 300px;
+    padding-bottom: 300px;
+    background-color: paleturquoise;
+}
+
+h1{
+    text-align: center;
+}
+input{
+    height: 40px;
+    width: 500px;
+    border: solid 2px black;
+    display: block;
+    margin-bottom: 5px;
+
+}
+.btm{
+    width: 507px;
+    height: 30px;
+    background-color: darkgray;
+}
+form{
+    width: 10px;
+    padding-top: 50px;
+    margin-left: 40%;
+
+}
+h3{
+    text-align: right;
+    text-align: center;
+}
